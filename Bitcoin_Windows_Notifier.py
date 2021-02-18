@@ -18,4 +18,4 @@ def Bitcoin_Price_Scraper(country):
         )
         time.sleep(300)
 
-Bitcoin_Price_Scraper('India')
+Bitcoin_Price_Scraper('USA')
